@@ -1,6 +1,10 @@
 # floating_button
 
-A new Flutter application.
+App #13 - Integração com Código Android Nativo Android do curso Criação de Apps Android e iOS com Flutter - Crie 16 Apps
+
+https://www.udemy.com/course/curso-completo-flutter-app-android-ios/
+
+Atualizado para a última versão do Fluuter
 
 ## Getting Started
 
